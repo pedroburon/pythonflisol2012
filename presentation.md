@@ -19,6 +19,11 @@
 
 ---
 
+# ![supchile](supchile.jpg)
+
+
+---
+
 # ¿Por qué python?
 
 
